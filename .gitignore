@@ -1,0 +1,14 @@
+/build/
+/artifacts/
+.gradle/
+local.properties
+.env
+.env.*
+*.jks
+*.keystore
+*.apk
+*.dex
+*.class
+__pycache__/
+*.pyc
+.DS_Store
