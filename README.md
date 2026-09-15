@@ -38,6 +38,7 @@ adb install -r artifacts/duo-probe.apk
 
 ## 기록
 
+- [Foldjump 자이로 각도 추정 참고](docs/foldjump-gyro-reference.md) — 2026-09-16 조사, 구현 미반영.
 - [대체 센서 조사](docs/alternative-sensors-review.md)
 - [힌지·효과 품질 분석](docs/quality-and-hinge-review.md)
 - [Wonderland 실기기 조사](docs/wonderland-device-review.md)
